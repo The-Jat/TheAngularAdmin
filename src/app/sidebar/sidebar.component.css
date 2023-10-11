@@ -1,0 +1,29 @@
+.menu {
+    list-style-type: none;
+    padding: 0px;
+}
+
+.menu li {
+    /* margin-bottom: 10px; */
+}
+
+.menu a {
+    padding: 10px 20px;
+    text-decoration: none;
+    color: #fff;
+    display: block;
+    transition: padding-left 0.3s;
+}
+
+.menu a:hover {
+    background-color: #555;
+}
+
+.menu a i {
+    margin-right: 10px;
+}
+
+.menu-text {
+    display: inline;
+    padding-left: 10px;
+}
